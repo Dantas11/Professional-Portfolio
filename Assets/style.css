@@ -132,7 +132,7 @@ p {
 }
 
 .p1 {
-    background-image: url("../../Professional-Portfolio-/assets/images/horiseonimage.png");
+    background-image: url("/assets/images/horiseonimage.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -141,7 +141,7 @@ p {
 .p3,
 .p4,
 .p5 {
-    background-image: url("../../Professional-Portfolio-/assets/images/loadingimage.png");
+    background-image: url("/assets/images/loadingimage.png");
     background-repeat: no-repeat;
     background-size: 750px 150px;
 }
