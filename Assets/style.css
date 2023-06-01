@@ -3,12 +3,14 @@
     --grey: rgb(92, 90, 90);
 }
 
+/* The Universal Selector */
 * {
     margin: 0;
     padding: 0;
 }
 
 header {
+    /* Flex is the property of flex container to use flexbox. */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -23,6 +25,7 @@ header img {
 }
 
 nav ul {
+    /* Flex is the property of flex container to use flexbox. */
     display: flex;
     justify-content: space-between;
     min-width: 400px;
@@ -31,6 +34,7 @@ nav ul {
 }
 
 nav a {
+    /* Used to insert the value of a CSS variable, in this case a color */
     color: var(--light-green);
     text-decoration: none;
     font-weight: bold;
@@ -40,13 +44,16 @@ nav a {
 }
 
 figure {
+    /* Changes the position of the element relative to the parent element */
     position:relative;
+    /* Center the text inside an element */
     text-align: center;
     color: var(--grey);
 }
 
 #image__text {
     font-size: 40px;
+    /* Is positioned relative to the nearest positioned ancestor */
     position: absolute;
     bottom: 40px;
     right: 300px;
@@ -54,6 +61,7 @@ figure {
 }
 
 h1 {
+    /* Sets the font size */
     font-size: 50px;
     background-color: var(--light-green);
     padding: 2px 2px 2px 50px;
@@ -134,7 +142,9 @@ main {
 
 #a-box__tittle {
     margin-top: 300px;
-    color: var(--light-green) 
+    margin-bottom: 50px;
+    background-color: var(--light-green);
+    color: var(--grey); 
 }
 
 .a-box__tittle {
@@ -152,12 +162,15 @@ a {
     list-style: none;
 }
 
-  #container__contact-me__list a {
+#container__contact-me__list a {
+    /* Any existing decoration is removed. */
     text-decoration: none;
+    /* Used to insert the value of a CSS variable, in this case a color */
     color: var(--grey);
     border-bottom: 3px solid;
 }
 
+/*The @media rule is used in media queries to apply different styles for different media types/devices.*/
 @media screen and (max-width: 768px) {
     header {
         display: block;
