@@ -73,6 +73,12 @@ main {
     margin: 0 auto 0 auto;
 }
 
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
