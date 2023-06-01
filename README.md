@@ -2,6 +2,8 @@
 
 ## Description
 
+This project is to develop my Professional Portfolio using HTML and CSS.
+
 
 ## Website image
 
@@ -15,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this website open the link 
+To use this website open the link [Project Website Link] (https://dantas11.github.io/Professional-Portfolio-/)
 
 ## Credits
 
