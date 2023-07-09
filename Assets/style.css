@@ -132,12 +132,16 @@ p {
 }
 
 .p1 {
-    background-image: url("/assets/images/horiseonimage.png");
+    background-image: url("./images/horiseonimage.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.p2,
+.p2 {
+    background-image: url("./images/covid-flight-tracker.png");
+    background-size: cover;
+}
+
 .p3,
 .p4,
 .p5 {
