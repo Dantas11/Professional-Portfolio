@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this website open the link [Project Website Link](https://dantas11.github.io/Horiseon-Project/)
+To use this website open the link [Project Website Link](https://dantas11.github.io/Professional-Portfolio/)
 
 ## Credits
 
