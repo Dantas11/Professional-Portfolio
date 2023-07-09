@@ -7,7 +7,7 @@ This project is to develop my Professional Portfolio using HTML and CSS.
 
 ## Website image
 
-![Website Page](https://github.com/Dantas11/Professional-Portfolio/blob/main/Assets/Images/horiseonimage.png)
+![Website Page](https://github.com/Dantas11/Professional-Portfolio/blob/main/Assets/Images/portfoliothiagoimage.png)
 
 
 
