@@ -159,7 +159,15 @@ p {
 
 .a-box__tittle {
     padding: 80px;
-    color: var(--light-green)
+    color: var(--grey);
+}
+
+#a-box__tittle__box2 {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    /* padding: 80px; */
+    color: var(--grey);
+    background-color: var(--light-green);
 }
 
 a {
