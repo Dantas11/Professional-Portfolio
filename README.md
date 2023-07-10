@@ -7,7 +7,7 @@ This project is to develop my Professional Portfolio using HTML and CSS.
 
 ## Website image
 
-![Website Page](https://github.com/Dantas11/Professional-Portfolio-/blob/main/Assets/Images/portfolioimage.png)
+![Website Page](https://github.com/Dantas11/Professional-Portfolio/blob/main/Assets/Images/portfoliothiagoimage.png)
 
 
 
@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this website open the link [Project Website Link](https://dantas11.github.io/Professional-Portfolio-/)
+To use this website open the link [Project Website Link](https://dantas11.github.io/Professional-Portfolio/)
 
 ## Credits
 
