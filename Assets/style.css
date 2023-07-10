@@ -145,7 +145,7 @@ p {
 .p3,
 .p4,
 .p5 {
-    background-image: url("/assets/images/loadingimage.png");
+    background-image: url("./images/loadingimage.png");
     background-repeat: no-repeat;
     background-size: 750px 150px;
 }
